@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1a6aa007-b61c-40d8-8af1-895df1211a3a)
+
+  (paper "A0")
+
+  (title_block
+    (title "Frida_Mainboard")
+    (date "09.02.2023")
+    (rev "V0.1")
+    (company "Frida Company")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
